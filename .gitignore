@@ -3,3 +3,6 @@
 # Keep environment variables out of version control
 .env
 uploads
+libs/scan_buah_new_fine_tuned.h5:Zone.Identifier
+src/services/fileUploadService.py
+src/services/FruitFreshnessMLService.py
